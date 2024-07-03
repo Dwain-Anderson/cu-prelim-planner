@@ -1,0 +1,4 @@
+
+then do google cal feature
+fully document api
+then backend is fully functional (and done)
